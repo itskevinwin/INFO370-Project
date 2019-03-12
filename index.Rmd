@@ -47,7 +47,6 @@ The dataset that we are working with is one that we found from <https://www.kagg
 
 From the fundamental dataset we were given, we wanted to know which fundamental variables potentially correlate to opening stock price and the strength of each fundamental individually. Above is a heatmap to indicate the amount of strength in correlation each fundamental variable has with one another.
 
-
 <br>
 
 <div style="width:500px; height:300px">
