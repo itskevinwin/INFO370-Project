@@ -113,4 +113,3 @@ Similar to the K Nearest Neighbors Classifier, the Random Forest Classifier can 
 ### Kernel Ridge
 Our final model uses ridge regression. This model is especially good at preventing multicollinearity from affecting the outcome of the model. We felt this was an appropriate model to use due to the close nature many of the filtered fundamentals share. 
 ![](img/kernelridge.png)
-
